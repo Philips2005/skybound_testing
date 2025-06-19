@@ -92,18 +92,18 @@ variable "domain-name" {
 variable "namecheap_api_user" {
   description = "Namecheap API user"
   type        = string
-  default     = "Smartobi"
+  default     = "Jomek"
 }
 
 variable "namecheap_api_key" {
   description = "Namecheap API key"
   type        = string
-  default     = "a3ca57241b794d44b0fc3387ca9b62a9"
+  default     = "a3ca57241b794d44b0fc3387ca9b62a9"  #change
 }
 variable "namecheap_username" {
   description = "Namecheap username"
   type        = string
-  default     = "smartobi"
+  default     = "Jomek"
 }
 variable "namecheap_client_ip" {
   description = "Client IP for Namecheap API access"
